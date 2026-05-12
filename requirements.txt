@@ -1,0 +1,11 @@
+
+
+torch>=1.10
+torch-geometric>=2.0
+torch-scatter
+lark
+numpy
+matplotlib
+networkx
+scikit-learn
+tqdm
